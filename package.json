@@ -1,0 +1,12 @@
+{
+  "name": "material-ui-error",
+  "devDependencies": {
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "material-table": "^1.65.0",
+    "react": "^16.13.1"
+  }
+}
